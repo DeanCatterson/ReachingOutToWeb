@@ -1,0 +1,30 @@
+.Banner {
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 80%;
+  margin: 10px auto 32px;
+  padding: 10px;
+  border: 1px solid #555;
+  box-shadow: 0 2px 3px #888;
+  background: whitesmoke;
+}
+
+.Title {
+  font-family: "Lucida Console", Courier;
+  text-align: center;
+  margin: auto;
+  padding: 16px;
+}
+
+.BannerInfo {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.BannerDesc {
+  padding: 10px;
+}
+
+.BannerFoot {
+  padding: 14px;
+}
